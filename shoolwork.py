@@ -248,27 +248,12 @@
 
 
 
-i =  2
-while i <= 10000:
-    print(i)
-    i += 1
-
-print("done")
-
-
-
-
-
-
-
-def hw():
-    print("hello world")
-    print("Coach O is a millionaire ")
-    return(1)
-a = hw()
-print("hey this is right")
-hw()
-print(a)
+#i =  2
+#while i <= 10000:
+#    print(i)
+#    i += 1
+#
+#print("done")
 
 
 
@@ -276,14 +261,29 @@ print(a)
 
 
 
-name1 = input("enter your first : ")
-name2 =input("enter your last : ")
+#def hw():
+#    print("hello world")
+#    print("Coach O is a millionaire ")
+#    return(1)
+#a = hw()
+#print("hey this is right")
+#hw()
+#print(a)
 
-def name(name1 , name2):
-    print("your name is ")  , name1 , name2
 
-    return
-name(name1 , name2)
+
+
+
+
+
+#name1 = input("enter your first : ")
+#name2 =input("enter your last : ")
+#
+#def name(name1 , name2):
+#    print("your name is ")  , name1 , name2
+#
+#    return
+#name(name1 , name2)
 
 
 
